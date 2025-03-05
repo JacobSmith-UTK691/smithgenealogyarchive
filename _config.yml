@@ -9,25 +9,25 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-#url: https://collectionbuilder.github.io 
+url: https://JacobSmith-UTK691.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-#baseurl: /collectionbuilder-gh 
+baseurl: /smithgenealogyarchive 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/JacobSmith-UTK691/smithgenealogyarchive
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Smith Genealogy Archive 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Families and Allied Branches from Southeast Tennessee
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "The site contains records, photographs, written stories, and other relevant source material pertaining to several generations of family history"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: J. Smith
 
 ##########
 # COLLECTION SETTINGS
